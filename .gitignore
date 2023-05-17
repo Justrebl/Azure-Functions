@@ -5,6 +5,9 @@ csx
 edge
 Publish
 
+__azurite_**
+__blobstorage_**
+
 *.user
 *.suo
 *.cscfg
